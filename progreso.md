@@ -6,8 +6,8 @@
 
 - **Inicio del curso:** 2026-11-07.
 - **Última lección superada:** M01-L01 — ¿Qué es la electricidad? (2026-11-07).
-- **Lección en curso:** ninguna; M01-L01 finalizada y superada.
-- **Próxima lección:** M01-L02 — Tensión e intensidad.
+- **Lección en curso:** M01-L02 — Tensión e intensidad (teoría presentada; evaluación pendiente).
+- **Próxima lección:** finalizar y evaluar M01-L02; después M01-L03 solo si se supera.
 - **Evaluación disponible:** M01-L01, evaluación inicial (1/4) y reevaluación de refuerzo (3/3 correctas), corregidas el 2026-11-07. Lección superada.
 - **Prácticas realizadas:** simulación conceptual de circuito abierto/cerrado; ninguna práctica física.
 - **Competencias prácticas acreditadas:** ninguna.
@@ -18,6 +18,7 @@
 | Fecha | Lección | Estado | Evidencia de evaluación | Refuerzo / siguiente paso |
 | --- | --- | --- | --- | --- |
 | 2026-11-07 | M01-L01 | Superada | Evaluación inicial: 1/4; tres ejercicios de refuerzo corregidos: 3/3 correctos. Se acreditó distinción entre circuito abierto/cerrado y funciones de fuente y receptor. | Objetivos teóricos alcanzados tras refuerzo. Siguiente: M01-L02 (tensión e intensidad). |
+| 2026-11-07 | M01-L02 | En curso | Teoría y ejemplos de tensión e intensidad preparados; sin respuestas a la evaluación todavía. | Contestar cuatro preguntas de evaluación y corregir antes de determinar superación. |
 
 ## Resumen de la sesión M01-L01 (2026-11-07)
 
