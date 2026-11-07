@@ -26,7 +26,7 @@ Curso personal y progresivo para aprender electricidad desde cero, adquirir una 
 
 ## Funcionamiento
 
-Cada sesión dura unos **30 minutos** y combina repaso, explicación, ejemplos, ejercicios y corrección. Para continuar, consultar primero el estado de [progreso.md](progreso.md) y la lección correspondiente. Una lección no se marca como superada sin evaluación efectivamente realizada y corregida.
+Cada sesión dura unos **30 minutos** y combina repaso, explicación, ejemplos, ejercicios y corrección. **No es necesario abrir un chat por lección:** se pueden cursar varias en una misma conversación; se abrirá otra cuando convenga por longitud o claridad. Para continuar, consultar primero el estado de [progreso.md](progreso.md) y la lección correspondiente. Una lección no se marca como superada sin evaluación efectivamente realizada y corregida.
 
 La conversación con ChatGPT **no actualiza GitHub por sí sola**. Hay que confirmar expresamente cada cambio hecho en el repositorio. El progreso compartido aquí evita datos personales y no equivale a un expediente académico oficial.
 
@@ -38,4 +38,4 @@ Las primeras prácticas son simulaciones o circuitos educativos aislados y de mu
 
 ## Estado
 
-**Pendiente de comenzar.** Próxima sesión: M01-L01, «¿Qué es la electricidad?».
+**M01-L01 superada el 07/11/2026**, tras evaluación inicial (1/4) y refuerzo corregido (3/3). Próxima sesión: **M01-L02 — Tensión e intensidad**. Ver [progreso.md](progreso.md).
