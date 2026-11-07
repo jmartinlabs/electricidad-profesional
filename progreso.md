@@ -5,10 +5,10 @@
 ## Estado general
 
 - **Inicio del curso:** 2026-11-07.
-- **Última lección superada:** ninguna.
-- **Lección en curso:** M01-L01 — ¿Qué es la electricidad? (**refuerzo pendiente**).
-- **Próxima lección:** M01-L01 — repaso y reevaluación; M01-L02 solo si se supera M01-L01.
-- **Evaluación disponible:** M01-L01, primera evaluación corregida (2026-11-07); no superada aún.
+- **Última lección superada:** M01-L01 — ¿Qué es la electricidad? (2026-11-07).
+- **Lección en curso:** ninguna; M01-L01 finalizada y superada.
+- **Próxima lección:** M01-L02 — Tensión e intensidad.
+- **Evaluación disponible:** M01-L01, evaluación inicial (1/4) y reevaluación de refuerzo (3/3 correctas), corregidas el 2026-11-07. Lección superada.
 - **Prácticas realizadas:** simulación conceptual de circuito abierto/cerrado; ninguna práctica física.
 - **Competencias prácticas acreditadas:** ninguna.
 - **Cualificación/habilitación oficial adquirida mediante este proyecto:** ninguna.
@@ -17,25 +17,27 @@
 
 | Fecha | Lección | Estado | Evidencia de evaluación | Refuerzo / siguiente paso |
 | --- | --- | --- | --- | --- |
-| 2026-11-07 | M01-L01 | Refuerzo | 4 preguntas conceptuales contestadas y corregidas en conversación; seguridad: correcta; elementos/circuito: respuestas incompletas; interruptor abierto/cerrado: confusión | Diferenciar fuente, conductores, interruptor y receptor; explicar continuidad del camino y distinguir abierto de cerrado. Reevaluación pendiente antes de aprobar |
+| 2026-11-07 | M01-L01 | Superada | Evaluación inicial: 1/4; tres ejercicios de refuerzo corregidos: 3/3 correctos. Se acreditó distinción entre circuito abierto/cerrado y funciones de fuente y receptor. | Objetivos teóricos alcanzados tras refuerzo. Siguiente: M01-L02 (tensión e intensidad). |
 
 ## Resumen de la sesión M01-L01 (2026-11-07)
 
 - **Contenidos tratados:** cargas y corriente, conductores, fuente de energía, receptor, interruptor, circuito simple, continuidad eléctrica y seguridad inicial.
-- **Ejercicios realizados:** cuatro preguntas de comprensión; corrección comentada.
+- **Ejercicios realizados:** cuatro preguntas de comprensión inicial y tres preguntas de refuerzo; ambos bloques corregidos.
 - **Resultado por competencias:**
   - Condiciones para circulación de corriente: **parcial** (identifica conductores, faltan fuente y camino cerrado).
   - Función de elementos del circuito: **pendiente de consolidar** (respuesta demasiado general).
   - Comportamiento del interruptor: **incorrecto**, confusión entre abrir y cerrar.
   - Seguridad ante instalaciones domésticas: **correcto** (reconoce peligrosidad de la tensión de red).
-- **Estado:** no superada; ejercicios de refuerzo propuestos y reevaluación pendiente.
-- **Próxima sesión:** terminar el refuerzo de M01-L01. No avanzar a M01-L02 hasta acreditar comprensión.
+- **Reevaluación de refuerzo:** 3/3 correctas. Identifica que un circuito abierto no permite circular corriente, diferencia fuente de energía y receptor y reconoce que la lámpara se enciende cuando el interruptor cierra el circuito.
+- **Errores corregidos:** confusión previa sobre abrir/cerrar el circuito y funciones de sus componentes; se recomienda reforzar la explicación causal en próximas clases.
+- **Estado final:** **superada** para los objetivos teóricos, tras la reevaluación corregida. Sin práctica física ni acreditación oficial.
+- **Próxima sesión:** M01-L02 — Tensión e intensidad.
 
 ## Evaluaciones de módulo
 
 | Módulo | Estado | Evidencia | Resultado |
 | --- | --- | --- | --- |
-| M01 | En curso | M01-L01, primera evaluación corregida | M01-L01 en refuerzo; sin lecciones superadas |
+| M01 | En curso | M01-L01, evaluación inicial y refuerzo corregido | M01-L01 superada; resto del módulo pendiente |
 
 ## Convenciones de estado
 
