@@ -7,7 +7,7 @@ Las lecciones se desarrollarán a medida que avance el curso, en lugar de genera
 | Código | Título | Estado |
 | --- | --- | --- |
 | M01-L01 | ¿Qué es la electricidad? | **Superada (07/11/2026)** |
-| M01-L02 | Tensión e intensidad | En curso; pendiente de evaluación |
+| M01-L02 | Tensión e intensidad | **Superada (07/11/2026)** |
 | M01-L03 | Resistencia y ley de Ohm | Planificada |
 | M01-L04 | Potencia, energía y consumo | Planificada |
 | M01-L05 | Circuitos y problemas básicos | Planificada |
