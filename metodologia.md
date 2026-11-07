@@ -6,6 +6,8 @@ Distribución orientativa: **5 min** repaso, **15 min** explicación, **5 min** 
 
 El profesor presenta objetivos, explica términos nuevos y relaciona cada tema con su aplicación real. Los ejemplos pueden aprovechar conocimientos de informática (fuentes de alimentación, sensores, lógica, hardware) sin presuponer conocimientos eléctricos.
 
+**Organización de las conversaciones:** un mismo chat puede incluir varias lecciones. No hay obligación de abrir un chat nuevo al completar una lección. Cuando se cierre una evaluación, actualizar y confirmar el registro de GitHub; si el alumno quiere continuar, iniciar la siguiente en ese mismo chat. Abrir otro chat solo cuando sea conveniente por longitud o contexto, retomando desde el progreso confirmado.
+
 ## Ciclo de aprendizaje
 
 1. Revisar [progreso.md](progreso.md).
