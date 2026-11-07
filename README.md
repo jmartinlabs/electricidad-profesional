@@ -11,6 +11,7 @@ Curso personal y progresivo para aprender electricidad desde cero, adquirir una 
 3. Desarrollar habilidades prácticas de manera segura, con simulaciones al principio y formación presencial supervisada para actividades con riesgo.
 4. Conocer las vías oficiales de cualificación y los requisitos legales para trabajar.
 5. Aprender a **usar IA como asistente del electricista** para planos, cálculos, presupuestos, materiales, documentación y gestión de clientes. No se pretende desarrollar modelos de IA.
+6. Explorar a largo plazo una **actividad autónoma de electricidad en horario compatible con otro empleo**, solo tras cumplir requisitos de cualificación, habilitación, medios y seguridad.
 
 ## Documentación
 
@@ -19,6 +20,8 @@ Curso personal y progresivo para aprender electricidad desde cero, adquirir una 
 - [Progreso](progreso.md): estado actual y evidencias.
 - [Lecciones](lecciones/README.md): índice de clases.
 - [IA aplicada](ia-aplicada/README.md): actividades transversales de uso profesional.
+- [Itinerario profesional](orientacion-profesional.md): de las prácticas educativas a la formación acreditada y una posible actividad autónoma.
+- [Multímetro UNI-T UT133A](herramientas/UT133A.md): características, límites y uso seguro en el curso.
 - [Fuentes oficiales](referencias.md): referencias normativas y formativas.
 
 ## Funcionamiento
