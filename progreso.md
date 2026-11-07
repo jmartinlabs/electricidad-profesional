@@ -6,9 +6,9 @@
 
 - **Inicio del curso:** 2026-11-07.
 - **Última lección superada:** M01-L01 — ¿Qué es la electricidad? (2026-11-07).
-- **Lección en curso:** M01-L02 — Tensión e intensidad (teoría presentada; evaluación pendiente).
-- **Próxima lección:** finalizar y evaluar M01-L02; después M01-L03 solo si se supera.
-- **Evaluación disponible:** M01-L01, evaluación inicial (1/4) y reevaluación de refuerzo (3/3 correctas), corregidas el 2026-11-07. Lección superada.
+- **Lección en curso:** M01-L02 — Tensión e intensidad (**evaluación corregida; refuerzo pendiente**).
+- **Próxima lección:** completar el refuerzo de M01-L02; M01-L03 solo después de superarla.
+- **Evaluación disponible:** M01-L01 superada tras refuerzo (2026-11-07); M01-L02 primera evaluación corregida (3 correctas, 1 parcial), refuerzo pendiente.
 - **Prácticas realizadas:** simulación conceptual de circuito abierto/cerrado; ninguna práctica física.
 - **Competencias prácticas acreditadas:** ninguna.
 - **Cualificación/habilitación oficial adquirida mediante este proyecto:** ninguna.
@@ -18,7 +18,7 @@
 | Fecha | Lección | Estado | Evidencia de evaluación | Refuerzo / siguiente paso |
 | --- | --- | --- | --- | --- |
 | 2026-11-07 | M01-L01 | Superada | Evaluación inicial: 1/4; tres ejercicios de refuerzo corregidos: 3/3 correctos. Se acreditó distinción entre circuito abierto/cerrado y funciones de fuente y receptor. | Objetivos teóricos alcanzados tras refuerzo. Siguiente: M01-L02 (tensión e intensidad). |
-| 2026-11-07 | M01-L02 | En curso | Teoría y ejemplos de tensión e intensidad preparados; sin respuestas a la evaluación todavía. | Contestar cuatro preguntas de evaluación y corregir antes de determinar superación. |
+| 2026-11-07 | M01-L02 | Refuerzo | 4 preguntas corregidas: 3 correctas y 1 parcial. Distingue voltios y amperios, reconoce tensión sin corriente y demanda variable de un cargador. | Falta explicitar que conocer solo la tensión de 3 V no permite deducir la corriente exacta. Reevaluación breve pendiente; no marcar superada aún. |
 
 ## Resumen de la sesión M01-L01 (2026-11-07)
 
@@ -33,6 +33,15 @@
 - **Errores corregidos:** confusión previa sobre abrir/cerrar el circuito y funciones de sus componentes; se recomienda reforzar la explicación causal en próximas clases.
 - **Estado final:** **superada** para los objetivos teóricos, tras la reevaluación corregida. Sin práctica física ni acreditación oficial.
 - **Próxima sesión:** M01-L02 — Tensión e intensidad.
+
+## Resumen provisional M01-L02 (2026-11-07)
+
+- **Contenidos tratados:** diferencia de potencial (V), intensidad (A), tensión en circuito abierto, corriente nominal disponible de una fuente frente a consumo real y circuito con interruptor.
+- **Ejercicios:** cuatro preguntas conceptuales respondidas y corregidas.
+- **Evaluación:** 3 correctas y 1 parcialmente correcta.
+- **Aciertos:** analogía presión/caudal y unidades; pila desconectada con tensión pero sin corriente externa; cargador 5 V / 2 A, que no obliga al dispositivo a demandar siempre 2 A.
+- **Refuerzo pendiente:** al cerrar circuito con pila de 3 V responde que circula intensidad, pero omite justificar que no puede saberse su valor exacto sin conocer el receptor y el resto del circuito.
+- **Estado:** refuerzo, sin superación acreditada por ahora. Próxima actividad: breve pregunta de comprobación sobre tensión vs. corriente.
 
 ## Evaluaciones de módulo
 
