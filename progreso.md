@@ -5,10 +5,10 @@
 ## Estado general
 
 - **Inicio del curso:** 2026-11-07.
-- **Última lección superada:** M01-L02 — Tensión e intensidad (2026-11-07).
-- **Lección en curso:** M01-L03 — Resistencia y ley de Ohm (primera evaluación corregida el 2026-11-09; refuerzo pendiente).
-- **Próxima lección:** ejercicios de refuerzo y reevaluación de M01-L03; solo después, si se supera, M01-L04 — Potencia, energía y consumo.
-- **Evaluación disponible:** M01-L01 y M01-L02 superadas tras refuerzo; M01-L03 primera evaluación de 4 preguntas corregida (1 correcta, 2 parciales, 1 incorrecta) el 2026-11-09. M01-L03 en refuerzo.
+- **Última lección superada:** M01-L03 — Resistencia y ley de Ohm (2026-11-09).
+- **Lección en curso:** ninguna; M01-L03 finalizada tras refuerzo.
+- **Próxima lección:** M01-L04 — Potencia, energía y consumo.
+- **Evaluación disponible:** M01-L01 y M01-L02 superadas tras refuerzo; M01-L03 evaluación inicial de cuatro preguntas (1 correcta, 2 parciales, 1 incorrecta) y comprobación adicional de cálculo de resistencia: 8 V / 0,5 A = 16 Ω, respuesta correcta el 2026-11-09. M01-L03 superada con recomendación de seguir reforzando expresión de fórmulas, unidades y justificación.
 - **Prácticas realizadas:** simulación conceptual de circuito abierto/cerrado; ninguna práctica física.
 - **Competencias prácticas acreditadas:** ninguna.
 - **Cualificación/habilitación oficial adquirida mediante este proyecto:** ninguna.
@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | --- |
 | 2026-11-07 | M01-L01 | Superada | Evaluación inicial: 1/4; tres ejercicios de refuerzo corregidos: 3/3 correctos. Se acreditó distinción entre circuito abierto/cerrado y funciones de fuente y receptor. | Objetivos teóricos alcanzados tras refuerzo. Siguiente: M01-L02 (tensión e intensidad). |
 | 2026-11-07 | M01-L02 | Superada | Evaluación inicial 3/4 correctas (1 parcial). Refuerzos: 1 incorrecto (misma tensión ≠ misma corriente), 1 parcial (capacidad de fuente) y 1 correcto (0,5 A consumidos frente a 3 A disponibles), todos corregidos. | Concepto afianzado: corriente demandada por el receptor frente a límite de la fuente. Pasar a M01-L03 y reforzar con ley de Ohm. |
-| 2026-11-09 | M01-L03 | Refuerzo | Cuatro respuestas corregidas: 1 correcta (relación resistencia/intensidad); 2 parciales (12/4=3 sin fórmula ni unidad; identifica 100 Ω sin justificar); 1 incorrecta (6/0,5=3 en lugar de 12 Ω). | Reforzar operaciones con decimales, unidad y fórmula; razonar por qué menor resistencia implica mayor corriente. Reevaluación pendiente. |
+| 2026-11-09 | M01-L03 | Superada | Evaluación inicial: 1 correcta, 2 parciales, 1 incorrecta; comprobación adicional: 16 Ω para 8 V y 0,5 A, correcta. | Se acredita cálculo básico de resistencia y relación cualitativa entre resistencia e intensidad. Seguir practicando fórmulas explícitas, unidades y razonamientos en M01-L04 y evaluación integradora. |
 
 ## Resumen de la sesión M01-L01 (2026-11-07)
 
@@ -54,14 +54,16 @@
 - **Aciertos:** reconoce que elevar la resistencia disminuye la corriente a tensión fija; calcula correctamente 12/4=3; identifica el resistor de 100 Ω como el de mayor corriente frente a 200 Ω.
 - **Errores/refuerzo:** omite unidades y fórmula en cálculo de intensidad; error al dividir por 0,5 (6/0,5=12, no 3); no justifica explícitamente la comparación de resistencias.
 - **Resultado por competencias:** comprensión cualitativa correcta; cálculo con decimales incorrecto; expresión formal y justificación parcial.
-- **Estado:** **refuerzo**, no superada todavía. Nueva comprobación antes de avanzar a M01-L04.
+- **Refuerzo evaluado:** en una nueva comprobación con U=8 V e I=0,5 A respondió correctamente «16 ohm», corrigiendo el fallo anterior al dividir entre 0,5. No expresó la fórmula por escrito, por lo que se mantiene como objetivo de refuerzo transversal.
+- **Resultado final:** **superada** para los objetivos básicos del tema tras evaluación y refuerzo. Se continuará verificando la aplicación de fórmulas y la justificación de cálculos en próximas lecciones.
+- **Próxima lección:** M01-L04 — Potencia, energía y consumo.
 - **Prácticas físicas:** ninguna.
 
 ## Evaluaciones de módulo
 
 | Módulo | Estado | Evidencia | Resultado |
 | --- | --- | --- | --- |
-| M01 | En curso | M01-L01 y M01-L02 superadas; M01-L03 primera evaluación corregida | M01-L03 en refuerzo; M01-L04, M01-L05 y evaluación integradora pendientes |
+| M01 | En curso | M01-L01, M01-L02 y M01-L03 superadas con evaluación corregida | M01-L04, M01-L05 y evaluación integradora pendientes; fórmulas y unidades a seguir reforzando |
 
 ## Convenciones de estado
 
