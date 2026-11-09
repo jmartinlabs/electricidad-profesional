@@ -6,8 +6,8 @@
 
 - **Inicio del curso:** 2026-11-07.
 - **Última lección superada:** M01-L02 — Tensión e intensidad (2026-11-07).
-- **Lección en curso:** ninguna. M01-L02 finalizada y superada tras refuerzo.
-- **Próxima lección:** M01-L03 — Resistencia y ley de Ohm.
+- **Lección en curso:** M01-L03 — Resistencia y ley de Ohm (iniciada el 2026-11-09, evaluación pendiente).
+- **Próxima lección:** completar evaluación de M01-L03; si se supera, M01-L04 — Potencia, energía y consumo.
 - **Evaluación disponible:** M01-L01 superada tras refuerzo; M01-L02 evaluación inicial de 4 preguntas (3 correctas, 1 parcial) y 3 comprobaciones de refuerzo corregidas; última comprobación correcta (0,5 A, corriente demandada por receptor). Superada el 2026-11-07.
 - **Prácticas realizadas:** simulación conceptual de circuito abierto/cerrado; ninguna práctica física.
 - **Competencias prácticas acreditadas:** ninguna.
@@ -19,6 +19,7 @@
 | --- | --- | --- | --- | --- |
 | 2026-11-07 | M01-L01 | Superada | Evaluación inicial: 1/4; tres ejercicios de refuerzo corregidos: 3/3 correctos. Se acreditó distinción entre circuito abierto/cerrado y funciones de fuente y receptor. | Objetivos teóricos alcanzados tras refuerzo. Siguiente: M01-L02 (tensión e intensidad). |
 | 2026-11-07 | M01-L02 | Superada | Evaluación inicial 3/4 correctas (1 parcial). Refuerzos: 1 incorrecto (misma tensión ≠ misma corriente), 1 parcial (capacidad de fuente) y 1 correcto (0,5 A consumidos frente a 3 A disponibles), todos corregidos. | Concepto afianzado: corriente demandada por el receptor frente a límite de la fuente. Pasar a M01-L03 y reforzar con ley de Ohm. |
+| 2026-11-09 | M01-L03 | En curso | Se presenta la teoría, simulación ideal y cuatro ejercicios de evaluación. Respuestas y corrección pendientes. | Evaluar comprensión de resistencia y cálculo I=U/R, R=U/I, con unidades; no avanzar hasta corregir. |
 
 ## Resumen de la sesión M01-L01 (2026-11-07)
 
